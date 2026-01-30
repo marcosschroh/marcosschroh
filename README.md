@@ -7,7 +7,7 @@ I'm a passionate software developer with a strong interest in backend developmen
 - 🔭 I’m currently working on [dataclasses-avroschemas](https://github.com/marcosschroh/dataclasses-avroschemas), [kstreams](https://github.com/kpn/kstreams) and [django-streams](https://github.com/kpn/django-streams)
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on open-source projects related to backend development and data streaming
-- 💬 Ask me about Python, Asyncio, FastAPI, Django, Data Streaming, Avro and cloud infrastructure
+- 💬 Ask me about Python, Asyncio, FastAPI, Django, Data Streaming, Kafka, Avro and cloud infrastructure
 - 📫 How to reach me: [schrohm@gmail.com](mailto:schrohm@gmail.com)
 
 ## 🛠️ Technologies & Tools
@@ -15,6 +15,7 @@ I'm a passionate software developer with a strong interest in backend developmen
 - **Languages:** Python, JavaScript
 - **Frameworks:** Django, Flask, FastAPI, React.js
 - **Cloud:** AWS
+- **Message Bus** Kafka
 - **Containers:** Docker, Kubernetes
 - **CI/CD:** GitHub Actions, Jenkins, Travis CI, Gitlab
 - **Databases:** PostgreSQL, MySQL, Solr, Redis, DynamoDB
