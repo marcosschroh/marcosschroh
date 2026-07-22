@@ -5,7 +5,6 @@ I'm a passionate software developer with a strong interest in backend developmen
 ## 🚀 About Me
 
 - 🔭 I’m currently working on [dataclasses-avroschemas](https://github.com/marcosschroh/dataclasses-avroschemas), [kstreams](https://github.com/kpn/kstreams) and [django-streams](https://github.com/kpn/django-streams)
-- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on open-source projects related to backend development and data streaming
 - 💬 Ask me about Python, Asyncio, FastAPI, Django, Data Streaming, Kafka, Avro and cloud infrastructure
 - 📫 How to reach me: [schrohm@gmail.com](mailto:schrohm@gmail.com)
